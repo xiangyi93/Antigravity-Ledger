@@ -1,0 +1,9 @@
+# Google Gemini API Key
+GEMINI_API_KEY=
+
+# Google Service Account Details for Sheets API
+GOOGLE_SERVICE_ACCOUNT_EMAIL=
+GOOGLE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\n...\n-----END PRIVATE KEY-----\n"
+
+# Google Sheet ID (from URL)
+GOOGLE_SHEET_ID=
